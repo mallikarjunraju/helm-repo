@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  edge-namespace:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-27T22:52:05.862257136+05:30"
+    description: A Helm chart for deploying the Ability(TM) Edge on Kubernetes
+    digest: ef45adb8008fef1f06189066f6c1de94477f4a13820ab050ac4dbf8557fb5e63
+    name: edge-namespace
+    type: application
+    urls:
+    - https://github.com/mallikarjunraju/helm-repo/edge-namespace-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-27T22:52:05.861331388+05:30"
